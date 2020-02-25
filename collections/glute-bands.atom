@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://suzieb-fitness.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://suzieb-fitness.myshopify.com/collections/glute-bands.atom"/>
+  <title>SuzieB Fitness</title>
+  <updated>2020-02-13T20:59:00-05:00</updated>
+  <author>
+    <name>SuzieB Fitness</name>
+  </author>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4485887885411</id>
+    <published>2020-02-13T20:59:00-05:00</published>
+    <updated>2020-02-13T20:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/white-smooch-band"/>
+    <title>WHITE SMOOCH BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/White-Smooch-Band.jpg?v=1581626387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<meta charset="utf-8">
+<p><span>The Suzieb Glute Band is made with woven material, smooch print, and a rubber label featured on the seam. It comes in a printed poly bag.</span>  </p>
+<p>Both smooch bands are limited edition! Once they are sold out, they will be gone!</p>
+<p><span>ALL SALES FINAL</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4485887885411</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3576044355683</id>
+    <published>2019-12-02T14:46:20-05:00</published>
+    <updated>2019-12-02T14:46:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/black-marble-classic-band"/>
+    <title>BLACK MARBLE BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/black-marble2.jpg?v=1574483912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb Black Marble design featured on this woven Glute Band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+<p> </p>
+<p><span>ALL SALES FINAL </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3576044355683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3576081449059</id>
+    <published>2019-11-28T20:55:03-05:00</published>
+    <updated>2019-11-28T20:55:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/white-marble-band"/>
+    <title>WHITE MARBLE BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/white-marble.jpg?v=1574369789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">LIGHT/MEDIUM - LIGHTER RESISTANCE BAND</span></p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p><span>Featuring white marble printed glute band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3576081449059</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4388102668387</id>
+    <published>2019-11-28T20:55:02-05:00</published>
+    <updated>2019-11-28T20:55:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/regina-band"/>
+    <title>Regina Band</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/Regina-Band.jpg?v=1574889162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p><span>"Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb Pink Logo featured on the front with the quote "You Can't Squat With Us." Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4388102668387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4387714564195</id>
+    <published>2019-11-28T20:55:01-05:00</published>
+    <updated>2019-11-28T20:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/cher-band"/>
+    <title>Cher Band</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/Cher-Band.jpg?v=1574889194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>LIGHT/MEDIUM - LIGHTER RESISTANCE BAND</span></p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p><span>SuzieB Logo featured on the front of this design inspired by the iconic Cher in Clueless. "As If!" Rubber label featured on the seam, and comes in a printed poly bag.</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4387714564195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4387645685859</id>
+    <published>2019-11-28T20:55:01-05:00</published>
+    <updated>2019-11-28T20:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/dorothy-band"/>
+    <title>Dorothy Band</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/Dorothy-Band.jpg?v=1574889200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">LIGHT/MEDIUM - LIGHTER RESISTANCE BAND</span></p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p><span>SuzieB Logo featured on the front of this design inspired by Dorothy from Wizard of Oz. Rubber label featured on the seam, and comes in a printed poly bag.</span></p>
+<p> </p>
+<p><span>ALL SALES FINAL</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4387645685859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3969302626403</id>
+    <published>2019-11-28T20:55:01-05:00</published>
+    <updated>2019-11-28T20:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/boyfriend-classic-band"/>
+    <title>BOYFRIEND BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/boyfriend-band2.jpg?v=1574483765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND</span></p>
+<p><span style="color: #ff00ff;">THIS BAND HAS A LARGER CIRCUMFERENCE THAN OUR "CLASSIC" BANDS</span> </p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb blacked out BOYFRIEND BAND is perfect for men and women looking for a larger circumference glute band. This new band features a rubber label on the seam, and comes in a printed poly bag.</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3969302626403</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3969333592163</id>
+    <published>2019-08-07T21:00:02-04:00</published>
+    <updated>2019-08-07T21:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/neon-volt-simple-band"/>
+    <title>NEON VOLT BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/VOLT-CLASSIC-BAND.jpg?v=1574369535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">LIGHT/MEDIUM - LIGHTER RESISTANCE BAND </span></p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p><span>Featuring Neon Volt glute band. Clear ruber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3969333592163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3969328119907</id>
+    <published>2019-08-07T21:00:02-04:00</published>
+    <updated>2019-08-07T21:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/neon-pink-simple-band"/>
+    <title>NEON PINK BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/pink-band.jpg?v=1574369498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">LIGHT/MEDIUM - LIGHTER RESISTANCE BAND </span></p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p>Featuring Neon Pink glute band. Clear ruber label featured on the seam, and comes in a printed poly bag.</p>
+<p>ALL SALES FINAL</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3969328119907</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3969315700835</id>
+    <published>2019-08-07T21:00:02-04:00</published>
+    <updated>2019-08-07T21:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/orange-snakeskin-band"/>
+    <title>ORANGE SNAKESKIN BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/ORANGE-SNAKESKIN-CLASSIC-BAND.jpg?v=1574369853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">LIGHT/MEDIUM - LIGHTER RESISTANCE BAND </span></p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p><span>Featuring Neon Orange Snakeskin  printed glute band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3969315700835</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3969285455971</id>
+    <published>2019-08-07T21:00:01-04:00</published>
+    <updated>2019-08-07T21:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/black-and-neon-volt-classic-band"/>
+    <title>BLACK &amp; NEON VOLT BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/VOLT-NEON-CLASSIC-BAND2.jpg?v=1574483349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb black band with volt logo printed on front featured on this woven Glute Band. Rubber label featured on the seam, and comes in a printed poly bag.</span>  </p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3969285455971</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3969276477539</id>
+    <published>2019-08-07T21:00:01-04:00</published>
+    <updated>2019-08-07T21:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/neon-orange-simple-classic-band"/>
+    <title>NEON ORANGE BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/Orange-NEON-CLASSIC-BAND2.jpg?v=1574483504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p> </p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb Neon Orange Simple Classic Band featured on this woven Glute Band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3969276477539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3969264648291</id>
+    <published>2019-08-07T21:00:00-04:00</published>
+    <updated>2019-08-07T21:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/volt-snakeskin-classic-band"/>
+    <title>VOLT SNAKESKIN BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/VOLT-SNAKESKIN-CLASSIC-BAND2.jpg?v=1574483081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND</span></p>
+<p> </p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb Neon Volt Snakeskin Band design featured on this woven Glute Band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3969264648291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3969234534499</id>
+    <published>2019-08-07T21:00:00-04:00</published>
+    <updated>2019-08-07T21:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/pink-snakeskin-classic-band"/>
+    <title>PINK SNAKESKIN BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/PINK-SNAKESKIN-CLASSIC-BAND2.jpg?v=1574483316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p> </p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb Pink Neon Snakeskin featured on this woven Glute Band. Clear rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3969234534499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/1492191838307</id>
+    <published>2019-06-24T21:00:01-04:00</published>
+    <updated>2019-06-24T21:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/black-camo"/>
+    <title>BLACK CAMO BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/Black-Camo2.jpg?v=1574484183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb Black Logo featured on the front in white on this black CAMO printed band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/1492191838307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/1458490376291</id>
+    <published>2019-06-24T21:00:01-04:00</published>
+    <updated>2019-06-24T21:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/tiffany-band"/>
+    <title>TIFFANY BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/Tiffany-Band.jpg?v=1574370043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">LIGHT/MEDIUM - LIGHTER RESISTANCE BAND </span></p>
+<p> </p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p><span>Suzieb Black Logo featured on the front, rubber label on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/1458490376291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3576061198435</id>
+    <published>2019-05-20T21:00:01-04:00</published>
+    <updated>2019-05-20T21:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/grey-leopard-band"/>
+    <title>GREY LEOPARD BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/grey-leopard.jpg?v=1574369165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">LIGHT/MEDIUM - LIGHTER RESISTANCE BAND</span></p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. This band also features extra grip "SuzieB Fitness" printed interior text. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p><span>SuzieB Logo featured on the front of this grey leopard glute band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3576061198435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/1516845138019</id>
+    <published>2019-05-20T21:00:01-04:00</published>
+    <updated>2019-05-20T21:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/booty-classic-band"/>
+    <title>GOLDEN LEOPARD BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/LEOPARD-CLASSIC-BAND2.jpg?v=1574484186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p> </p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Leopard printed glute band featuring interior printed "SuzieB Fitness" grip text. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/1516845138019</id>
+      <title>ONE SIZE</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

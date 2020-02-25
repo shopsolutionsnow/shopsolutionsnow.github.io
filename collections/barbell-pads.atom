@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://suzieb-fitness.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://suzieb-fitness.myshopify.com/collections/barbell-pads.atom"/>
+  <title>SuzieB Fitness</title>
+  <updated>2019-11-28T20:55:02-05:00</updated>
+  <author>
+    <name>SuzieB Fitness</name>
+  </author>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4391329661027</id>
+    <published>2019-11-28T20:55:02-05:00</published>
+    <updated>2019-11-28T20:55:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/pink-bar-pad"/>
+    <title>PINK BAR PAD</title>
+    <s:type>Bar Pads</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/1eea0ef7.jpg?v=1574634620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Bar Pads<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The barbell pad can be used for squats, lunges, hip thrusts and any other workout where you might be using a barbell in direct contact. The barbell pad is meant to ease the pressure on your body so that you can focus more on the proper form. No need to use yoga mats or cause strain, this features a foam material, secure velcro lining, and pink design. </span><span>Check out Suzie's videos on Instagram to see how it is used.</span> <br></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar pad</s:tag>
+    <s:tag>bar pads</s:tag>
+    <s:tag>barbell pad</s:tag>
+    <s:tag>barbell pads</s:tag>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4391329661027</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4391325401187</id>
+    <published>2019-11-28T20:55:02-05:00</published>
+    <updated>2019-11-28T20:55:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/marble-bar-pad"/>
+    <title>MARBLE BAR PAD</title>
+    <s:type>Bar Pads</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/ec2f0a18.jpg?v=1574634541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Bar Pads<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>The barbell pad can be used for squats, lunges, hip thrusts and any other workout where you might be using a barbell in direct contact. The barbell pad is meant to ease the pressure on your body so that you can focus more on the proper form. No need to use yoga mats or cause strain, this features a foam material, secure velcro lining, and marble design. </span>Check out Suzie's videos on Instagram to see how it is used.</p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar pad</s:tag>
+    <s:tag>bar pads</s:tag>
+    <s:tag>barbell pad</s:tag>
+    <s:tag>barbell pads</s:tag>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4391325401187</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

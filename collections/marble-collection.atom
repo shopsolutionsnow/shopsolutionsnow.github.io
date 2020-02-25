@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://suzieb-fitness.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://suzieb-fitness.myshopify.com/collections/marble-collection.atom"/>
+  <title>SuzieB Fitness</title>
+  <updated>2019-12-27T20:00:00-05:00</updated>
+  <author>
+    <name>SuzieB Fitness</name>
+  </author>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4391371407459</id>
+    <published>2019-12-27T20:00:00-05:00</published>
+    <updated>2019-12-27T20:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/marble-ankle-straps"/>
+    <title>MARBLE ANKLE STRAPS</title>
+    <s:type>Ankle Straps</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/a287c7ff.jpg?v=1574637733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Ankle Straps<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Includes <em><strong>one pair</strong></em> of ankle straps.</p>
+<meta charset="utf-8">
+<p><span></span><span>Use these ankle straps on the cable machine. The first part you'll notice is how different and more comfortable these are than most of the ones out there. No more borrowing the used ankle straps from the gym. Enjoy your workouts more with a cushioned lining, a secure way to tighten the straps, and a stylish design on these marble ankle straps!</span></p>
+<p><span>The ankle straps feature a SuzieB logo on the front rubber label and come in a printed poly bag. Check Instagram for Suzie's videos to see how it is used.</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle cuff</s:tag>
+    <s:tag>ankle straps</s:tag>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4391371407459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4391323533411</id>
+    <published>2019-12-27T20:00:00-05:00</published>
+    <updated>2019-12-27T20:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/dark-marble-long-band"/>
+    <title>DARK MARBLE LONG BAND</title>
+    <s:type>Long Bands</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/black-marble-long-band.jpg?v=1574640311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Long Bands<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">MEDIUM/HEAVY - RESISTANCE BAND </span></p>
+<p><span></span>The long bands aren't made of rubber, like most, so no need to worry about them snapping! Use this long band looped resistance band to support exercises targeting all muscle groups. The marble long band is durable, high-quality, and thick so they will last you through your workouts. It also comes in a carrying case so you can easily store and keep it in top condition.</p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4391323533411</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3576044355683</id>
+    <published>2019-12-02T14:46:20-05:00</published>
+    <updated>2019-12-02T14:46:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/black-marble-classic-band"/>
+    <title>BLACK MARBLE BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/black-marble2.jpg?v=1574483912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">MEDIUM/HEAVY - STRONGEST RESISTANCE BAND </span></p>
+<p><span>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</span></p>
+<p><span>Suzieb Black Marble design featured on this woven Glute Band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+<p> </p>
+<p><span>ALL SALES FINAL </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3576044355683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4391292731491</id>
+    <published>2019-11-28T20:55:03-05:00</published>
+    <updated>2019-11-28T20:55:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/white-marble-long-band"/>
+    <title>WHITE MARBLE LONG BAND</title>
+    <s:type>Long Bands</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/white-marble-long-band.jpg?v=1574639981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Long Bands<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">LIGHT/MEDIUM - RESISTANCE BAND </span></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><span>The long bands aren't made of rubber, like most, so no need to worry about them snapping! Use this long band looped resistance band to support exercises targeting all muscle groups. The marble long band is durable, high-quality, and thick so they will last you through your workouts. </span><span>It also</span><span> comes in a carrying case so you can easily store and keep it in top condition.</span><br></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4391292731491</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/3576081449059</id>
+    <published>2019-11-28T20:55:03-05:00</published>
+    <updated>2019-11-28T20:55:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/white-marble-band"/>
+    <title>WHITE MARBLE BAND</title>
+    <s:type>Glute Band</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/white-marble.jpg?v=1574369789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Glute Band<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff00ff;">LIGHT/MEDIUM - LIGHTER RESISTANCE BAND</span></p>
+<p>Time to work on that peach! Shown are woven loop "Glute" bands featuring grips on the interior side of the band to prevent rolling up. Perfect for travel, and any kind of gym workout! Check Instagram for Suzie's band videos to see how it is used.</p>
+<p><span>Featuring white marble printed glute band. Rubber label featured on the seam, and comes in a printed poly bag .</span></p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/3576081449059</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://suzieb-fitness.myshopify.com/products/4391325401187</id>
+    <published>2019-11-28T20:55:02-05:00</published>
+    <updated>2019-11-28T20:55:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://suzieb-fitness.myshopify.com/products/marble-bar-pad"/>
+    <title>MARBLE BAR PAD</title>
+    <s:type>Bar Pads</s:type>
+    <s:vendor>SuzieB Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1880/4013/products/ec2f0a18.jpg?v=1574634541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SuzieB Fitness<br>
+        <strong>Type: </strong>Bar Pads<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>The barbell pad can be used for squats, lunges, hip thrusts and any other workout where you might be using a barbell in direct contact. The barbell pad is meant to ease the pressure on your body so that you can focus more on the proper form. No need to use yoga mats or cause strain, this features a foam material, secure velcro lining, and marble design. </span>Check out Suzie's videos on Instagram to see how it is used.</p>
+ALL SALES FINAL</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar pad</s:tag>
+    <s:tag>bar pads</s:tag>
+    <s:tag>barbell pad</s:tag>
+    <s:tag>barbell pads</s:tag>
+    <s:variant>
+      <id>https://suzieb-fitness.myshopify.com/products/4391325401187</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>
